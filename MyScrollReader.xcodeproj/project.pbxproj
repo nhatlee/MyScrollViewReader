@@ -40,7 +40,7 @@
 		DC89047024B6C9AB0077919E = {
 			isa = PBXGroup;
 			children = (
-				DC89047B24B6C9AB0077919E /* SectionTitle */,
+				DC89047B24B6C9AB0077919E /* MyScrollReader */,
 				DC89047A24B6C9AB0077919E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DC89047B24B6C9AB0077919E /* SectionTitle */ = {
+		DC89047B24B6C9AB0077919E /* MyScrollReader */ = {
 			isa = PBXGroup;
 			children = (
 				DC89047C24B6C9AB0077919E /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				DC89048A24B6C9AD0077919E /* Info.plist */,
 				DC89048424B6C9AD0077919E /* Preview Content */,
 			);
-			path = SectionTitle;
+			path = MyScrollReader;
 			sourceTree = "<group>";
 		};
 		DC89048424B6C9AD0077919E /* Preview Content */ = {
