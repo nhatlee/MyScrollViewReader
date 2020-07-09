@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DC89047924B6C9AB0077919E /* SectionTitle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SectionTitle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC89047924B6C9AB0077919E /* MyScrollReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyScrollReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC89047C24B6C9AB0077919E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC89047E24B6C9AB0077919E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DC89048024B6C9AB0077919E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		DC89047A24B6C9AB0077919E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DC89047924B6C9AB0077919E /* SectionTitle.app */,
+				DC89047924B6C9AB0077919E /* MyScrollReader.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DC89047824B6C9AB0077919E /* SectionTitle */ = {
+		DC89047824B6C9AB0077919E /* MyScrollReader */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DC89048D24B6C9AD0077919E /* Build configuration list for PBXNativeTarget "SectionTitle" */;
+			buildConfigurationList = DC89048D24B6C9AD0077919E /* Build configuration list for PBXNativeTarget "MyScrollReader" */;
 			buildPhases = (
 				DC89047524B6C9AB0077919E /* Sources */,
 				DC89047624B6C9AB0077919E /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = SectionTitle;
+			name = MyScrollReader;
 			productName = SectionTitle;
-			productReference = DC89047924B6C9AB0077919E /* SectionTitle.app */;
+			productReference = DC89047924B6C9AB0077919E /* MyScrollReader.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DC89047424B6C9AB0077919E /* Build configuration list for PBXProject "SectionTitle" */;
+			buildConfigurationList = DC89047424B6C9AB0077919E /* Build configuration list for PBXProject "MyScrollReader" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DC89047824B6C9AB0077919E /* SectionTitle */,
+				DC89047824B6C9AB0077919E /* MyScrollReader */,
 			);
 		};
 /* End PBXProject section */
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DC89047424B6C9AB0077919E /* Build configuration list for PBXProject "SectionTitle" */ = {
+		DC89047424B6C9AB0077919E /* Build configuration list for PBXProject "MyScrollReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC89048B24B6C9AD0077919E /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DC89048D24B6C9AD0077919E /* Build configuration list for PBXNativeTarget "SectionTitle" */ = {
+		DC89048D24B6C9AD0077919E /* Build configuration list for PBXNativeTarget "MyScrollReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC89048E24B6C9AD0077919E /* Debug */,
